@@ -1,7 +1,7 @@
 # Samuel_Adebanjo_DataScience_Portfolio_2
 Internship Projects from Flexisaf Edu Soft
 
-# Exploratory Data Analysis & Statistical Modeling of the Iris Dataset
+# Exploratory Data Analysis & Statistical Modeling of the Iris Dataset Module 2
 
 This repository contains a comprehensive exploratory data analysis (EDA) and statistical modeling workflow performed on the classic **Fisher's Iris Dataset**. The analysis demonstrates fundamental data profiling, summary statistics generation, per-feature distribution measurements, and correlation matrix evaluation using Python's data science ecosystem.
 
