@@ -93,8 +93,8 @@ Data_Science_Portfolio_2/
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/<your-username>/Data_Science_Portfolio_2.git
-cd Data_Science_Portfolio_2
+git clone https://github.com/Oluola4002/Samuel_Adebanjo_DataScience_Portfolio_2.git
+cd Samuel_Adebanjo_DataScience_Portfolio_2
 ```
 
 ### 2. Create and Activate Virtual Environment
@@ -129,6 +129,8 @@ jupyter notebook
 
 ## 👨‍💻 Author & Acknowledgements
 
-* **Author:** [Samuel Adebanjo](mailto:samueloluola.a@gmail.com)
+* **Author:** [Samuel Adebanjo](https://github.com/Oluola4002)
+* **GitHub Profile:** [@Oluola4002](https://github.com/Oluola4002)
+* **Email:** [samueloluola.a@gmail.com](mailto:samueloluola.a@gmail.com)
 * **Organization:** [FlexiSAF Edusoft Ltd.](https://flexisaf.com/)
 * **Internship Program:** FlexiSAF Data Science Internship
